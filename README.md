@@ -1,5 +1,5 @@
-#DGCN-TCYB2022
-The code related to the paper below： Gao Chao and Zhu Junyou and Zhang Fan and Wang Zhen and Li Xuelong, A Novel Representation Learning for Dynamic Graphs Based on Graph Convolutional Networks
+## DGCN-TCYB2022
+The code related to the paper below：Chao Gao, Junyou Zhu, Fan Zhang, Zhen Wang, Xuelong Li, A novel representation learning for dynamic graphs based on graph convolutional networks, IEEE Transactions on Cybernetics, 2022, doi: 10.1109/TCYB.2022.3159661.
 
 
 ## Run
